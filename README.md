@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 --> 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="400px" />
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="300px" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/dev-hossam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
