@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+<!-- ###:woman_technologist:--> About Me :
 I am Hossam Mohamed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: A front-end developer who loves building beautiful and functional web pages.
