@@ -9,9 +9,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/dev-hossam/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.fiverr.com/hossam_mohamed0/create-your-website-exactly-how-you-want-it-to-look" target="_blank">
+<!--   <a href="https://www.fiverr.com/hossam_mohamed0/create-your-website-exactly-how-you-want-it-to-look" target="_blank">
     <img src="https://img.shields.io/badge/fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr Badge"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/HosamMohamed" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
