@@ -1,62 +1,167 @@
-<!--
-**Devhoss/Devhoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-Here are some ideas to get you started:
---> 
+<div align="center">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="300px" />
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/dev-hossam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<!--   <a href="https://www.fiverr.com/hossam_mohamed0/create-your-website-exactly-how-you-want-it-to-look" target="_blank">
-    <img src="https://img.shields.io/badge/fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr Badge"/>
-  </a> -->
-  <a href="https://twitter.com/HosamMohamed" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+# Hossam ("Hoss")
+
+### Building products, tools, and AI-powered systems.
+
+<br />
+
+<a href="https://github.com/Devhoss">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dev-hossam/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/HosamMohamed">
+  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<br />
+<br />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0d1117"
+  width="100%"
+/>
+
 </div>
-  
-<img src="https://komarev.com/ghpvc/?username=Devhoss&style=flat-square&color=blue" alt=""/>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-
 
 ---
 
-<!-- ###:woman_technologist:--> About Me :
-I am Hossam Mohamed <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+## About
 
-- :telescope: A front-end developer who loves building beautiful and functional web pages.
+I'm Hossam — a developer who enjoys turning ideas into real products.
 
-- :seedling: I'm always learning new things and expanding my skills.
+I work across web, mobile, AI, automation, and backend systems, with a focus on building things that are useful, polished, and easy to use.
 
-- :zap: Passionate about learning new technologies and expanding my skills. I'm eager to take the next step in my career by becoming a software engineer.
+Most of my projects start with a simple question:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-hossam/)
+> **"Can this be made better?"**
 
+Then I build it.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## What I'm Building
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40" color="white"/>&nbsp;
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 WBOS
+
+A wholesale business operating system built around real-world business workflows — inventory, tenants, authentication, and operational tools.
+
+**Next.js · TypeScript · PostgreSQL · Prisma · Docker**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Forge Fit
+
+A workout platform built on a deterministic, policy-driven workout engine — no hardcoded tuning values, a versioned pipeline for scoring and prescribing exercises, and open-source exercise databases as content sources.
+
+**React · Next.js · TypeScript · React Native**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Hermes
+
+A multi-agent AI workspace — a chief-of-staff agent coordinating specialized agents (engineering, research, personal coaching, and more), each with its own persona and a shared roster for handoffs between them.
+
+**AI Agents · LLM Orchestration · Automation**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Experiments
+
+A collection of tools, APIs, crawlers, integrations, desktop utilities, and other ideas that usually start as "I wonder if I can..."
+
+**Python · Node.js · APIs · AI · Automation**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,tailwind,expo,postgresql,prisma,docker,linux,git,github&perline=7" />
+
+<br />
+<br />
+
+`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `React Native`
+
+`Node.js` · `Expo` · `Tailwind` · `PostgreSQL` · `Prisma` · `Docker`
+
 </div>
 
+---
+
+## Currently Exploring
+
+<div align="center">
+
+`AI Agents` · `LLM Infrastructure` · `Automation` · `System Design` · `Developer Tools`
+
+</div>
+
+I'm particularly interested in what happens when software stops being just an interface and starts becoming an **active system that can reason, recover, automate, and work alongside people.**
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devhoss&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devhoss&theme=radical&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<div align="center">
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Devhoss&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true"
+  height="165"
+  alt="Hoss's GitHub stats"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devhoss&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
+  height="165"
+  alt="Top languages"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Devhoss&hide_border=true&theme=github-dark-blue&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+  width="100%"
+  alt="GitHub streak"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Build things worth using.
+
+<br />
+
+<a href="https://github.com/Devhoss">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dev-hossam/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://twitter.com/HosamMohamed">X</a>
+
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Devhoss&style=flat-square&color=555555" alt="Profile views" />
+
+</div>
