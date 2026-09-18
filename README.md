@@ -68,15 +68,6 @@ A workout platform built on a deterministic, policy-driven workout engine — no
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Hermes
-
-A multi-agent AI workspace — a chief-of-staff agent coordinating specialized agents (engineering, research, personal coaching, and more), each with its own persona and a shared roster for handoffs between them.
-
-**AI Agents · LLM Orchestration · Automation**
-
-</td>
-<td width="50%" valign="top">
-
 ### 🧪 Experiments
 
 A collection of tools, APIs, crawlers, integrations, desktop utilities, and other ideas that usually start as "I wonder if I can..."
