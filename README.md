@@ -13,14 +13,14 @@
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/HosamMohamed">
-  <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br />
 <br />
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0d1117"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=58A6FF"
   width="100%"
 />
 
@@ -117,33 +117,6 @@ A collection of tools, APIs, crawlers, integrations, desktop utilities, and othe
 I'm particularly interested in what happens when software stops being just an interface and starts becoming an **active system that can reason, recover, automate, and work alongside people.**
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Devhoss&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff&count_private=true"
-  height="165"
-  alt="Hoss's GitHub stats"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devhoss&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e"
-  height="165"
-  alt="Top languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Devhoss&hide_border=true&theme=github-dark-blue&background=0d1117&stroke=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-  width="100%"
-  alt="GitHub streak"
-/>
-
-</div>
 
 ---
 
