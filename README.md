@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-I'm Hossam, a developer who enjoys turning ideas into real products.
+I'm Hossam, a self-thought developer who enjoys turning ideas into real products.
 
 I work across **web, mobile, AI, automation, and backend systems**, with a focus on building things that are useful, polished, and easy to use.
 
